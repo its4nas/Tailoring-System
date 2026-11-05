@@ -4,7 +4,7 @@ authors = [
     { name = "Anas Al-Dharei", email = "anas202255@gmail.com"}
 ]
 description = "Tailoring Management System"
-requires-python = ">=3.14"
+requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
